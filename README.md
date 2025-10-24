@@ -36,9 +36,9 @@ The management board asked:
 
 ## Files
 
-- `query_revenue.sql` – Revenue contribution by film
-- `query_high_value_customers.sql` – Lifetime value segmentation  
-- `query_rental_duration.sql` – Average rental duration  
-- `query_customers_by_country.sql` – Customer distribution by country  
-- `query_high_value_customers.sql` – Lifetime value segmentation  
-- `query_sales_by_region.sql` – Regional sales analysis
+assigned_customer.sql – Assigned customer identification  
+avg_total_paid_top5_customers_cte.sql – Average total paid of top 5 customers in top 10 cities/countries (CTE version)  
+check_missing_values_customer.sql – Check for missing or null values in customer data  
+check_missing_values_film.sql – Check for missing or null values in film data  
+query_customers_by_country.sql – Customer distribution by country (total vs top 5 comparison)  
+query_high_value_customers.sql – High-value customer analysis (average total spending)
