@@ -36,8 +36,8 @@ The management board asked:
 
 ## Files
 
-– `query_high_value_customers.sql` – Lifetime value segmentation
-- `query_revenue.sql` – Revenue contribution by film  
+- `query_revenue.sql` – Revenue contribution by film
+- `query_high_value_customers.sql` – Lifetime value segmentation  
 - `query_rental_duration.sql` – Average rental duration  
 - `query_customers_by_country.sql` – Customer distribution by country  
 - `query_high_value_customers.sql` – Lifetime value segmentation  
