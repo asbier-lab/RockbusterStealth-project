@@ -35,6 +35,7 @@ The management board asked:
 - Presentation of findings for management
 
 ## Files
+
 – `query_high_value_customers.sql` – Lifetime value segmentation
 - `query_revenue.sql` – Revenue contribution by film  
 - `query_rental_duration.sql` – Average rental duration  
