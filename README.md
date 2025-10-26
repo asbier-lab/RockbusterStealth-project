@@ -36,10 +36,10 @@ The management board asked:
 
 ## Files
 
-- **assigned_customer.sql** – Assigned customer identification  
-- **avg_total_paid_top5_customers_cte.sql** – Average total paid of top 5 customers in top 10 cities/countries (CTE version)  
-- **check_missing_values_customer.sql** – Check for missing or null values in customer data  
-- **check_missing_values_film.sql** – Check for missing or null values in film data  
-- **query_customers_by_country.sql** – Customer distribution by country (total vs top 5 comparison)  
-- **query_high_value_customers.sql** – High-value customer analysis (average total spending)
+**assigned_customer.sql** – Assigned customer identification  
+ **avg_total_paid_top5_customers_cte.sql** – Average total paid of top 5 customers in top 10 cities/countries (CTE version)  
+**check_missing_values_customer.sql** – Check for missing or null values in customer data  
+ **check_missing_values_film.sql** – Check for missing or null values in film data  
+**query_customers_by_country.sql** – Customer distribution by country (total vs top 5 comparison)  
+**query_high_value_customers.sql** – High-value customer analysis (average total spending)
 
